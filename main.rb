@@ -1,1 +1,1 @@
-echo " huong hihi "
+print "Huong hihi haha"
